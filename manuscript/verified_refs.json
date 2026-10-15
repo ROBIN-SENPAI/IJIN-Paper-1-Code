@@ -1,0 +1,362 @@
+[
+  {
+    "orig_no": 1,
+    "key": "oliha2024",
+    "status": "VERIFIED",
+    "final": "J.S. Oliha, P.W. Biu, O.C. Obi, Securing the smart city: a review of cybersecurity challenges and strategies, Open Access Research Journal of Multidisciplinary Studies 7 (1) (2024) 94–101, https://doi.org/10.53022/oarjms.2024.7.1.0013.",
+    "doi": "10.53022/oarjms.2024.7.1.0013",
+    "notes": "Crossref record matches authors, title, journal, vol 7 iss 1, pp. 094–101, published 28 Feb 2024. DOI added. CAUTION: Crossref also holds an article with identical title and identical author list in Engineering Science & Technology Journal 5 (2) (2024) 496–506, https://doi.org/10.51594/estj.v5i2.827 (25 Feb 2024), i.e. an apparent duplicate publication by the same authors. The cited version is correct as given; consider whether to keep a source with a duplicate-publication issue."
+  },
+  {
+    "orig_no": 2,
+    "key": "rose2020zta",
+    "status": "VERIFIED",
+    "final": "S. Rose, O. Borchert, S. Mitchell, S. Connelly, Zero Trust Architecture, NIST Special Publication 800-207, National Institute of Standards and Technology, Gaithersburg, MD, August 2020, https://doi.org/10.6028/NIST.SP.800-207.",
+    "doi": "10.6028/NIST.SP.800-207",
+    "notes": "Crossref (NIST) report record: authors Scott Rose, Oliver Borchert, Stu Mitchell, Sean Connelly; issued 11 Aug 2020. DOI and month added."
+  },
+  {
+    "orig_no": 3,
+    "key": "mushtaq2025",
+    "status": "VERIFIED",
+    "final": "S. Mushtaq, M. Mohsin, M.M. Mushtaq, A systematic literature review on the implementation and challenges of zero trust architecture across domains, Sensors 25 (19) (2025) 6118, https://doi.org/10.3390/s25196118.",
+    "doi": "10.3390/s25196118",
+    "notes": "Crossref: Sadaf Mushtaq, Muhammad Mohsin, Muhammad Mujahid Mushtaq; Sensors 25(19) 6118, published 3 Oct 2025. DOI added."
+  },
+  {
+    "orig_no": 4,
+    "key": "alnaim2025",
+    "status": "VERIFIED",
+    "final": "A.K. Alnaim, A.M. Alwakeel, Zero trust strategies for cyber-physical systems in 6G networks, Mathematics 13 (7) (2025) 1108, https://doi.org/10.3390/math13071108.",
+    "doi": "10.3390/math13071108",
+    "notes": "Crossref: Abdulrahman K. Alnaim, Ahmed M. Alwakeel; Mathematics 13(7) 1108, 27 Mar 2025. DOI added."
+  },
+  {
+    "orig_no": 5,
+    "key": "nist2024fips203",
+    "status": "VERIFIED",
+    "final": "National Institute of Standards and Technology, Module-Lattice-Based Key-Encapsulation Mechanism Standard, Federal Information Processing Standards Publication (FIPS) 203, U.S. Department of Commerce, August 2024, https://doi.org/10.6028/NIST.FIPS.203.",
+    "doi": "10.6028/NIST.FIPS.203",
+    "notes": "Crossref (NIST) report record: title 'Module-lattice-based key-encapsulation mechanism standard', issued 13 Aug 2024. DOI and month added."
+  },
+  {
+    "orig_no": 6,
+    "key": "nist2024fips204",
+    "status": "VERIFIED",
+    "final": "National Institute of Standards and Technology, Module-Lattice-Based Digital Signature Standard, Federal Information Processing Standards Publication (FIPS) 204, U.S. Department of Commerce, August 2024, https://doi.org/10.6028/NIST.FIPS.204.",
+    "doi": "10.6028/NIST.FIPS.204",
+    "notes": "Crossref (NIST) report record: issued 13 Aug 2024. DOI and month added."
+  },
+  {
+    "orig_no": 7,
+    "key": "nist2024fips205",
+    "status": "VERIFIED",
+    "final": "National Institute of Standards and Technology, Stateless Hash-Based Digital Signature Standard, Federal Information Processing Standards Publication (FIPS) 205, U.S. Department of Commerce, August 2024, https://doi.org/10.6028/NIST.FIPS.205.",
+    "doi": "10.6028/NIST.FIPS.205",
+    "notes": "Crossref (NIST) report record: issued 13 Aug 2024. DOI and month added."
+  },
+  {
+    "orig_no": 8,
+    "key": "mansoor2025",
+    "status": "VERIFIED",
+    "final": "K. Mansoor, M. Afzal, W. Iqbal, Y. Abbas, Securing the future: exploring post-quantum cryptography for authentication and user privacy in IoT devices, Cluster Comput. 28 (2) (2025) 93, https://doi.org/10.1007/s10586-024-04799-4.",
+    "doi": "10.1007/s10586-024-04799-4",
+    "notes": "Crossref: Cluster Computing 28(2), article 93; online 26 Nov 2024, issue Apr 2025. Issue number and DOI added."
+  },
+  {
+    "orig_no": 9,
+    "key": "almutairi2025",
+    "status": "VERIFIED",
+    "final": "M. Almutairi, F.T. Sheldon, Resilience of post-quantum cryptography in lightweight IoT protocols: a systematic review, Eng 6 (12) (2025) 346, https://doi.org/10.3390/eng6120346.",
+    "doi": "10.3390/eng6120346",
+    "notes": "Crossref: Mohammed Almutairi, Frederick T. Sheldon; Eng 6(12) 346, 2 Dec 2025. DOI added."
+  },
+  {
+    "orig_no": 10,
+    "key": "szymanski2024",
+    "status": "VERIFIED",
+    "final": "T.H. Szymanski, A quantum-safe software-defined deterministic Internet of Things (IoT) with hardware-enforced cyber-security for critical infrastructures, Information 15 (4) (2024) 173, https://doi.org/10.3390/info15040173.",
+    "doi": "10.3390/info15040173",
+    "notes": "Crossref: Ted H. Szymanski; Information 15(4) 173, 22 Mar 2024. DOI added."
+  },
+  {
+    "orig_no": 11,
+    "key": "lazzarini2023",
+    "status": "VERIFIED",
+    "final": "R. Lazzarini, H. Tianfield, V. Charissis, Federated learning for IoT intrusion detection, AI 4 (3) (2023) 509–530, https://doi.org/10.3390/ai4030028.",
+    "doi": "10.3390/ai4030028",
+    "notes": "Crossref: AI 4(3) 509–530, 24 Jul 2023. DOI added."
+  },
+  {
+    "orig_no": 12,
+    "key": "karunamurthy2025",
+    "status": "VERIFIED",
+    "final": "A. Karunamurthy, K. Vijayan, P.R. Kshirsagar, K.T. Tan, An optimal federated learning-based intrusion detection for IoT environment, Sci. Rep. 15 (2025) 8696, https://doi.org/10.1038/s41598-025-93501-8.",
+    "doi": "10.1038/s41598-025-93501-8",
+    "notes": "Crossref: A. Karunamurthy, K. Vijayan, Pravin R. Kshirsagar, Kuan Tak Tan; Scientific Reports 15, article 8696, published 13 Mar 2025. All metadata match. DOI added."
+  },
+  {
+    "orig_no": 13,
+    "key": "tom2025",
+    "status": "VERIFIED",
+    "final": "A.K. Tom, A. Khraisat, T. Jan, M. Whaiduzzaman, T.D. Nguyen, A. Alazab, Survey of federated learning for cyber threat intelligence in Industrial IoT: techniques, applications and deployment models, Future Internet 17 (9) (2025) 409, https://doi.org/10.3390/fi17090409.",
+    "doi": "10.3390/fi17090409",
+    "notes": "Crossref: Abin Kumbalapalliyil Tom et al.; Future Internet 17(9) 409, 8 Sep 2025. Title has no serial comma before 'and'. DOI added."
+  },
+  {
+    "orig_no": 14,
+    "key": "mrabet2025",
+    "status": "VERIFIED",
+    "final": "M. Mrabet, TrustFed-CTI: a trust-aware federated learning framework for privacy-preserving cyber threat intelligence sharing across distributed organizations, Future Internet 17 (11) (2025) 512, https://doi.org/10.3390/fi17110512.",
+    "doi": "10.3390/fi17110512",
+    "notes": "Crossref: Manel Mrabet; Future Internet 17(11) 512, 10 Nov 2025. DOI added."
+  },
+  {
+    "orig_no": 15,
+    "key": "bunko2026",
+    "status": "VERIFIED",
+    "final": "T. Bunko, M.N. Johnstone, W. Yang, B.A. Scott, A survey of privacy-preserving federated learning for intrusion detection systems, Artif. Intell. Rev. 59 (5) (2026) 125, https://doi.org/10.1007/s10462-026-11519-4.",
+    "doi": "10.1007/s10462-026-11519-4",
+    "notes": "Crossref: Artificial Intelligence Review 59(5), article 125, 28 Feb 2026. Issue number and DOI added."
+  },
+  {
+    "orig_no": 16,
+    "key": "mohammed2025sinkron",
+    "status": "CORRECTED",
+    "final": "H.A. Mohammed, A.K. Ali, Collective intelligence for cybersecurity: federated learning under non-IID conditions for intrusion detection, Sinkron: Jurnal dan Penelitian Teknik Informatika 9 (4) (2025) 1889–1899, https://doi.org/10.33395/sinkron.v9i4.15017.",
+    "doi": "10.33395/sinkron.v9i4.15017",
+    "notes": "Record exists (Crossref + journal landing-page meta tags): Hutheifa Anwar Mohammed, Awos Kh. Ali; vol 9 iss 4, pp. 1889–1899, 2 Oct 2025. Original lacked page range and DOI; full journal name added."
+  },
+  {
+    "orig_no": 17,
+    "key": "yang2023cose",
+    "status": "CORRECTED",
+    "final": "R. Yang, H. He, Y. Wang, Y. Qu, W. Zhang, Dependable federated learning for IoT intrusion detection against poisoning attacks, Comput. Secur. 132 (2023) 103381, https://doi.org/10.1016/j.cose.2023.103381.",
+    "doi": "10.1016/j.cose.2023.103381",
+    "notes": "Crossref: Run Yang, Hui He, Yulong Wang, Yue Qu, Weizhe Zhang; Computers & Security vol 132 (Sep 2023), article 103381. Original was missing the volume (132) and DOI."
+  },
+  {
+    "orig_no": 18,
+    "key": "thein2024fgcs",
+    "status": "CORRECTED",
+    "final": "T.T. Thein, Y. Shiraishi, M. Morii, Personalized federated learning-based intrusion detection system: poisoning attack and defense, Future Gener. Comput. Syst. 153 (2024) 182–192, https://doi.org/10.1016/j.future.2023.10.005.",
+    "doi": "10.1016/j.future.2023.10.005",
+    "notes": "Crossref: Thin Tharaphe Thein, Yoshiaki Shiraishi, Masakatu Morii; FGCS vol 153 (Apr 2024) pp. 182–192. Original gave year 2023 (online-first year) with no volume/pages; corrected to the volume year 2024 and completed."
+  },
+  {
+    "orig_no": 19,
+    "key": "sunil2025crc",
+    "status": "CORRECTED",
+    "final": "R. Sunil, P. Mer, P. Parmar, N. Khan, Fusion of emerging technologies for 6G-enabled secure smart city, in: S.K. Singh, R.B. Jadeja, A. Khanna, P.K. Dutta, B. Virdee (Eds.), Security Paradigms in 6G Smart Cities and IoT Ecosystems: Navigating the Future, CRC Press, Boca Raton, 2025, pp. 229–251, https://doi.org/10.1201/9781003564645-17.",
+    "doi": "10.1201/9781003564645-17",
+    "notes": "Crossref chapter record: Reshma Sunil, Parita Mer, Parth Parmar, Nasrullah Khan; pp. 229–251; CRC Press, Boca Raton; 30 Oct 2025. Editors confirmed on the Taylor & Francis book page (editorial matter by S.K. Singh, R.B. Jadeja, A. Khanna, P.K. Dutta, B. Virdee). Original lacked editors, pages, place and DOI."
+  },
+  {
+    "orig_no": 20,
+    "key": "salim2024fgcs",
+    "status": "CORRECTED",
+    "final": "M.M. Salim, D. Camacho, J.H. Park, Digital twin and federated learning enabled cyberthreat detection system for IoT networks, Future Gener. Comput. Syst. 161 (2024) 701–713, https://doi.org/10.1016/j.future.2024.07.017.",
+    "doi": "10.1016/j.future.2024.07.017",
+    "notes": "Crossref: Mikail Mohammed Salim, David Camacho, Jong Hyuk Park; FGCS vol 161 (Dec 2024) pp. 701–713. Original lacked volume, pages and DOI."
+  },
+  {
+    "orig_no": 21,
+    "key": "yigit2024icc",
+    "status": "CORRECTED",
+    "final": "Y. Yigit, I. Panitsas, L. Maglaras, L. Tassiulas, B. Canberk, Cyber-Twin: digital twin-boosted autonomous attack detection for vehicular ad-hoc networks, in: ICC 2024 – IEEE International Conference on Communications, IEEE, 2024, pp. 2167–2172, https://doi.org/10.1109/ICC51166.2024.10622784.",
+    "doi": "10.1109/ICC51166.2024.10622784",
+    "notes": "Crossref proceedings record: Yagmur Yigit, Ioannis Panitsas, Leandros Maglaras, Leandros Tassiulas, Berk Canberk; ICC 2024, pp. 2167–2172, 9 Jun 2024. Original lacked pages and DOI."
+  },
+  {
+    "orig_no": 22,
+    "key": "neto2023ciciot",
+    "status": "CORRECTED",
+    "final": "E.C.P. Neto, S. Dadkhah, R. Ferreira, A. Zohourian, R. Lu, A.A. Ghorbani, CICIoT2023: a real-time dataset and benchmark for large-scale attacks in IoT environment, Sensors 23 (13) (2023) 5941, https://doi.org/10.3390/s23135941.",
+    "doi": "10.3390/s23135941",
+    "notes": "Crossref: Sensors 23(13) 5941, 26 Jun 2023. Title ends in 'IoT Environment' (singular), not 'Environments' as in the original. DOI added."
+  },
+  {
+    "orig_no": 23,
+    "key": "moustafa2021toniot",
+    "status": "CORRECTED",
+    "final": "N. Moustafa, A new distributed architecture for evaluating AI-based security systems at the edge: network TON_IoT datasets, Sustain. Cities Soc. 72 (2021) 102994, https://doi.org/10.1016/j.scs.2021.102994.",
+    "doi": "10.1016/j.scs.2021.102994",
+    "notes": "Crossref (Elsevier deposit) lists a single author, Nour Moustafa. The co-authors 'M. Ahmed, S. Ahmed' in the original are NOT on the record and were removed. Volume 72 (Sep 2021), article 102994, and DOI added."
+  },
+  {
+    "orig_no": 24,
+    "key": "ferrag2022edgeiiot",
+    "status": "VERIFIED",
+    "final": "M.A. Ferrag, O. Friha, D. Hamouda, L. Maglaras, H. Janicke, Edge-IIoTset: a new comprehensive realistic cyber security dataset of IoT and IIoT applications for centralized and federated learning, IEEE Access 10 (2022) 40281–40306, https://doi.org/10.1109/ACCESS.2022.3165809.",
+    "doi": "10.1109/ACCESS.2022.3165809",
+    "notes": "Crossref: IEEE Access 10, pp. 40281–40306, 2022. All metadata match. DOI added."
+  },
+  {
+    "orig_no": 25,
+    "key": "fernandezcarames2020pq",
+    "status": "CORRECTED",
+    "final": "T.M. Fernandez-Carames, From pre-quantum to post-quantum IoT security: a survey on quantum-resistant cryptosystems for the Internet of Things, IEEE Internet Things J. 7 (7) (2020) 6457–6480, https://doi.org/10.1109/JIOT.2019.2958788.",
+    "doi": "10.1109/JIOT.2019.2958788",
+    "notes": "arXiv:2402.00790 exists (posted 1 Feb 2024), but its arXiv record carries journal_ref and DOI for the peer-reviewed version: IEEE Internet of Things Journal 7 (7) (2020) 6457–6480 (confirmed in Crossref). It is a late arXiv upload of a 2020 journal paper, not a 2024 preprint; cite the published journal article instead."
+  },
+  {
+    "orig_no": 26,
+    "key": "vashisth2025informatica",
+    "status": "CORRECTED",
+    "final": "S. Vashisth, A. Goyal, A survey of federated learning for IoT: addressing resource constraints and heterogeneous challenges, Informatica 49 (17) (2025) 1–10, https://doi.org/10.31449/inf.v49i17.7707.",
+    "doi": "10.31449/inf.v49i17.7707",
+    "notes": "AUTHOR MISATTRIBUTION. No Informatica paper by M.A. Ferrag exists (Crossref search of the Informatica DOI prefix 10.31449 for Ferrag returns nothing). The only matching record for 'A Survey of Federated Learning for IoT' in Informatica (2025) is by Sristi Vashisth and Anjali Goyal (Sharda University), vol 49 iss 17, published 11 Mar 2025 (journal landing page + Crossref); pp. 1–10 taken from the article PDF running header. Authors must confirm this is the work they meant; if a Ferrag survey was intended, it is a different paper in a different venue."
+  },
+  {
+    "orig_no": 27,
+    "key": "jamil2022asi",
+    "status": "CORRECTED",
+    "final": "S. Jamil, M. Rahman, Fawad, A comprehensive survey of digital twins and federated learning for Industrial Internet of Things (IIoT), Internet of Vehicles (IoV) and Internet of Drones (IoD), Appl. Syst. Innov. 5 (3) (2022) 56, https://doi.org/10.3390/asi5030056.",
+    "doi": "10.3390/asi5030056",
+    "notes": "WRONG JOURNAL. No such paper in Journal of Autonomous Intelligence (Crossref search of the JAI DOI prefix 10.32629 for Jamil finds only unrelated papers by Danish Jamil, 2023–2024). The matching record is Sonain Jamil, MuhibUr Rahman, Fawad (single-name author), Applied System Innovation 5 (3) (2022) 56, 13 Jun 2022 — same year, volume and issue as the original, so the journal name was wrong and the title truncated."
+  },
+  {
+    "orig_no": 28,
+    "key": "bilal2026scirep",
+    "status": "CORRECTED",
+    "final": "M.A. Bilal, I. Ul Islam, S. Idrees, M. Qasim, M.J. Khan, J. Khan, Dataset-centric evaluation of federated intrusion detection models in IoT networks, Sci. Rep. 16 (2026) 2683, https://doi.org/10.1038/s41598-025-32567-w.",
+    "doi": "10.1038/s41598-025-32567-w",
+    "notes": "Original had no authors. Crossref: Muhammad Ahmad Bilal, Ihtesham Ul Islam, Sarmad Idrees, Muhammad Qasim, Muhammad Junaid Khan, Jaleed Khan; Scientific Reports 16, article 2683, published 16 Jan 2026 (year corrected from 2025; the '025' in the DOI reflects the submission year)."
+  },
+  {
+    "orig_no": 29,
+    "key": "ogenyi2025frontiers",
+    "status": "CORRECTED",
+    "final": "F.C. Ogenyi, C.N. Ugwu, O.P.-C. Ugwu, A comprehensive review of AI-native 6G: integrating semantic communications, reconfigurable intelligent surfaces, and edge intelligence for next-generation connectivity, Front. Commun. Netw. 6 (2025) 1655410, https://doi.org/10.3389/frcmn.2025.1655410.",
+    "doi": "10.3389/frcmn.2025.1655410",
+    "notes": "Crossref: Fabian Chukwudi Ogenyi, Chinyere Nneoma Ugwu, Okechukwu Paul-Chima Ugwu; Frontiers in Communications and Networks vol 6, article 1655410, 30 Sep 2025. Original lacked volume, article number and DOI."
+  },
+  {
+    "orig_no": 30,
+    "key": "sharma2024sustainability",
+    "status": "VERIFIED",
+    "final": "S. Sharma, R. Popli, S. Singh, G. Chhabra, G.S. Saini, M. Singh, A. Sandhu, A. Sharma, R. Kumar, The role of 6G technologies in advancing smart city applications: opportunities and challenges, Sustainability 16 (16) (2024) 7039, https://doi.org/10.3390/su16167039.",
+    "doi": "10.3390/su16167039",
+    "notes": "Crossref: all 9 authors, Sustainability 16(16) 7039, 16 Aug 2024 match. DOI added."
+  },
+  {
+    "orig_no": 31,
+    "key": "qasim2025ijipm",
+    "status": "CORRECTED",
+    "final": "N.H. Qasim, O. Chafic, Adaptive AI-driven network slicing in 6G for smart cities: enhancing resource management and efficiency, Iranian Journal of Information Processing and Management 40 (Special Issue 4) (2025) 1541–1573, https://doi.org/10.22034/jipm.2025.728445.",
+    "doi": "10.22034/jipm.2025.728445",
+    "notes": "Not found by Crossref search, but verified on the journal site (jipm.irandoc.ac.ir/article_728445.html citation meta tags; DOI resolves there): authors Nameer Hashim Qasim (Al-Rafidain University College) and Omar Chafic (Emirates Aviation University). The co-author is 'Chafic' (the manuscript table spelling is right; 'Chadic' in the reference list is wrong). Vol 40, English Special Issue 4 (serial no. 125), pp. 1541–1573, publication date 23 Jul 2025 (Persian year 1404)."
+  },
+  {
+    "orig_no": 32,
+    "key": "itu2023m2160",
+    "status": "VERIFIED",
+    "final": "ITU-R, Recommendation ITU-R M.2160-0: Framework and overall objectives of the future development of IMT for 2030 and beyond, International Telecommunication Union, Geneva, November 2023, https://www.itu.int/rec/R-REC-M.2160-0-202311-I/en.",
+    "doi": null,
+    "notes": "ITU-R Recommendations page lists M.2160-0 (11/2023), approved 2023-11, in force; identifier R-REC-M.2160-0-202311-I. No DOI. Month and URL added."
+  },
+  {
+    "orig_no": null,
+    "key": "mcmahan2017fedavg",
+    "status": "VERIFIED",
+    "final": "H.B. McMahan, E. Moore, D. Ramage, S. Hampson, B. Agüera y Arcas, Communication-efficient learning of deep networks from decentralized data, in: Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 54, 2017, pp. 1273–1282.",
+    "doi": null,
+    "notes": "PMLR v54 page (proceedings.mlr.press/v54/mcmahan17a.html): pp. 1273–1282, 2017; author names from the paper PDF title block ('H. Brendan McMahan ... Blaise Agüera y Arcas'). No DOI exists."
+  },
+  {
+    "orig_no": null,
+    "key": "li2020fedprox",
+    "status": "VERIFIED",
+    "final": "T. Li, A.K. Sahu, M. Zaheer, M. Sanjabi, A. Talwalkar, V. Smith, Federated optimization in heterogeneous networks, Proc. Mach. Learn. Syst. 2 (2020) 429–450.",
+    "doi": null,
+    "notes": "MLSys proceedings page + official BibTeX: Proceedings of Machine Learning and Systems 2 (MLSys 2020), pp. 429–450; editors I. Dhillon, D. Papailiopoulos, V. Sze. No DOI."
+  },
+  {
+    "orig_no": null,
+    "key": "blanchard2017krum",
+    "status": "VERIFIED",
+    "final": "P. Blanchard, E.M. El Mhamdi, R. Guerraoui, J. Stainer, Machine learning with adversaries: Byzantine tolerant gradient descent, in: Advances in Neural Information Processing Systems 30 (NIPS 2017), Curran Associates, Inc., 2017.",
+    "doi": null,
+    "notes": "NeurIPS proceedings page + official BibTeX: Advances in Neural Information Processing Systems vol 30, 2017, Curran Associates; editors I. Guyon et al. The official BibTeX has an empty pages field, so no page range is given (the frequently quoted '119–129' could not be confirmed from the official record). No DOI."
+  },
+  {
+    "orig_no": null,
+    "key": "yin2018median",
+    "status": "VERIFIED",
+    "final": "D. Yin, Y. Chen, K. Ramchandran, P. Bartlett, Byzantine-robust distributed learning: towards optimal statistical rates, in: Proceedings of the 35th International Conference on Machine Learning (ICML), PMLR 80, 2018, pp. 5650–5659.",
+    "doi": null,
+    "notes": "PMLR v80 page (proceedings.mlr.press/v80/yin18a.html): pp. 5650–5659. PMLR metadata lists the third author as 'Ramchandran Kannan' (name-order error); the paper PDF gives 'Kannan Ramchandran', used here. No DOI."
+  },
+  {
+    "orig_no": null,
+    "key": "hsu2019noniid",
+    "status": "VERIFIED",
+    "final": "T.-M.H. Hsu, H. Qi, M. Brown, Measuring the effects of non-identical data distribution for federated visual classification, arXiv:1909.06335, 2019, https://doi.org/10.48550/arXiv.1909.06335.",
+    "doi": "10.48550/arXiv.1909.06335",
+    "notes": "arXiv API: authors Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown; submitted 13 Sep 2019; preprint only (no journal_ref). arXiv DataCite DOI resolves."
+  },
+  {
+    "orig_no": null,
+    "key": "fang2020localpoison",
+    "status": "VERIFIED",
+    "final": "M. Fang, X. Cao, J. Jia, N. Gong, Local model poisoning attacks to Byzantine-robust federated learning, in: Proceedings of the 29th USENIX Security Symposium (USENIX Security 20), USENIX Association, 2020, pp. 1605–1622.",
+    "doi": null,
+    "notes": "USENIX page (usenixsecurity20/presentation/fang): author order Minghong Fang, Xiaoyu Cao, Jinyuan Jia, Neil Gong; pp. 1605–1622; ISBN 978-1-939133-17-5. No DOI."
+  },
+  {
+    "orig_no": null,
+    "key": "watts1998smallworld",
+    "status": "VERIFIED",
+    "final": "D.J. Watts, S.H. Strogatz, Collective dynamics of 'small-world' networks, Nature 393 (6684) (1998) 440–442, https://doi.org/10.1038/30918.",
+    "doi": "10.1038/30918",
+    "notes": "Crossref: Nature 393(6684) 440–442, June 1998."
+  },
+  {
+    "orig_no": null,
+    "key": "rfc10024",
+    "status": "CORRECTED",
+    "final": "K. Kwiatkowski, P. Kampanakis, B.E. Westerbaan, D. Stebila, Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3, RFC 10024, Internet Engineering Task Force, August 2026, https://doi.org/10.17487/RFC10024.",
+    "doi": "10.17487/RFC10024",
+    "notes": "IETF Datatracker: draft-ietf-tls-ecdhe-mlkem latest revision is -05 (26 May 2026; authors K. Kwiatkowski (PQShield), P. Kampanakis (AWS), B.E. Westerbaan (Cloudflare), D. Stebila (University of Waterloo); title 'Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3'). The draft has since been PUBLISHED as RFC 10024 (Standards Track, August 2026) under the new title above; DOI 10.17487/RFC10024 resolves to rfc-editor.org/info/rfc10024. Cite the RFC, not the draft. If the draft itself must be cited: K. Kwiatkowski, P. Kampanakis, B.E. Westerbaan, D. Stebila, Post-quantum hybrid ECDHE-MLKEM key agreement for TLSv1.3, Internet-Draft draft-ietf-tls-ecdhe-mlkem-05, IETF, 26 May 2026."
+  },
+  {
+    "orig_no": null,
+    "key": "galal2026provenance",
+    "status": "VERIFIED",
+    "final": "M.M. Galal, Provenance, not behaviour: a serialisation artifact in Edge-IIoTset and a leakage-free benchmark for precision-agriculture intrusion detection, arXiv:2608.15761, 2026, https://doi.org/10.48550/arXiv.2608.15761.",
+    "doi": "10.48550/arXiv.2608.15761",
+    "notes": "arXiv API + abs page: single author Mostafa M. Galal; submitted 16 Aug 2026; cs.CR (cross-list cs.LG); comment gives code DOI 10.5281/zenodo.21941210 and benchmark DOI 10.5281/zenodo.21941319. Preprint, no journal_ref."
+  },
+  {
+    "orig_no": null,
+    "key": "wilcoxon1945",
+    "status": "VERIFIED",
+    "final": "F. Wilcoxon, Individual comparisons by ranking methods, Biometrics Bulletin 1 (6) (1945) 80–83, https://doi.org/10.2307/3001968.",
+    "doi": "10.2307/3001968",
+    "notes": "Crossref (JSTOR): Biometrics Bulletin 1(6), Dec 1945, first page 80 (Crossref and OpenAlex record only the first page); last page 83 is corroborated by independent bibliographies, not by Crossref itself."
+  },
+  {
+    "orig_no": null,
+    "key": "benjamini1995fdr",
+    "status": "VERIFIED",
+    "final": "Y. Benjamini, Y. Hochberg, Controlling the false discovery rate: a practical and powerful approach to multiple testing, Journal of the Royal Statistical Society: Series B (Methodological) 57 (1) (1995) 289–300, https://doi.org/10.1111/j.2517-6161.1995.tb02031.x.",
+    "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+    "notes": "Crossref: vol 57 iss 1, pp. 289–300, 1995. Full subtitle added."
+  },
+  {
+    "orig_no": null,
+    "key": "efron1993bootstrap",
+    "status": "VERIFIED",
+    "final": "B. Efron, R.J. Tibshirani, An Introduction to the Bootstrap, Monographs on Statistics and Applied Probability 57, Chapman & Hall, New York, 1993, https://doi.org/10.1201/9780429246593.",
+    "doi": "10.1201/9780429246593",
+    "notes": "Open Library (ISBN 0-412-04231-2): Chapman & Hall, New York, 1993, series Monographs on Statistics and Applied Probability 57, 436 pp. Crossref DOI 10.1201/9780429246593 is the Chapman and Hall/CRC (eBook) record of the same book, dated 15 May 1994 there; keep 1993 for the print first edition, or cite 'Chapman and Hall/CRC, 1994' if the date must match the DOI record."
+  },
+  {
+    "orig_no": null,
+    "key": "arp2022dosdonts",
+    "status": "VERIFIED",
+    "final": "D. Arp, E. Quiring, F. Pendlebury, A. Warnecke, F. Pierazzi, C. Wressnegger, L. Cavallaro, K. Rieck, Dos and don'ts of machine learning in computer security, in: Proceedings of the 31st USENIX Security Symposium (USENIX Security 22), USENIX Association, 2022, pp. 3971–3988.",
+    "doi": null,
+    "notes": "USENIX page (usenixsecurity22/presentation/arp): 8 authors in the order given, pp. 3971–3988, ISBN 978-1-939133-31-1. The paper is by Arp et al. (not Engelen et al.). No DOI."
+  }
+]
